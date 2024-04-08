@@ -1,0 +1,18 @@
+{
+  "canisters": {
+    "ccfc_website": {
+      "dependencies": [],
+      "source": ["ccfc_website/dist"],
+      "type": "assets",
+      "workspace": "ccfc_website"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
