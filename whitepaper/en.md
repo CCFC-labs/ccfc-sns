@@ -1,31 +1,28 @@
 # CCFC DAO Whitepaper
 
-A decentralized CCFC meme coin built on the Internet Computer.
+## Cerveza Cristal Fan Coin: A Galactic Meme Coin Adventure!
 
-## Introduction
+Welcome, fellow travelers, to the **Cerveza Cristal Fan Coin (CCFC)** whitepaper! Buckle up for a journey that blends the refreshing taste of a cold Cristal with the hilarious power of memes, all fueled by the revolutionary **Internet Computer (ICP)**!
 
-Cerveza Cristal Fan Coin (CCFC) is an absolute meme coin embrazing the still nacent Internet Computer ecosystem. The meme coin is governance by a Decentralised Autonomous Organisaton (DAO), also known as Service Nervous System (SNS) on ICP. The concept of this DAO is community first, that's why the majority of the tokens are in the hands of the community.
+**May the Force be with you (and your thirst for a good meme coin)!**
 
-## Vision and Mission
+## A Star Wars Fan's Dream (and a Meme Coin Reality)
 
-Not only are we beer lovers but also huge fans of Star Wars. So facing what Cerveza Cristal managed - merging our two passions - we saw that it deserves a bigger place in the meme world.
+We at CCFC HQ are not just beer lovers, we're **die-hard Star Wars fans**. So, when we saw the epic Cerveza Cristal ad grace the recent Star Wars movie, we knew it was a match made in meme heaven.
+
+Here's the ad that started it all!:
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/5hfRjN3txdM)](https://youtu.be/5hfRjN3txdM)
 
-## Internet Computer Overview
+CCFC is a **community-first meme coin**, built on the cutting-edge ICP. That means the power lies with YOU, the fans! We're talking Decentralized Autonomous Organization (DAO), also known as a **Service Nervous System (SNS)** on ICP. Hold onto your spacesuits – this is gonna be wild!
 
-The [**Internet Computer**](https://internetcomputer.org/) (IC) integrates autonomous serverless cloud functionality into the public Internet. This advancement enables the creation of virtually any system or service on a decentralized network, utilizing 'canister software'—an evolved form of smart contracts.
-Web3 services and enterprise systems can be directly built on the Internet Computer—a scalable public decentralized network. It is capable of hosting social networks, media streaming, and more, offering Web3 functionality. These services are tamper-proof and can interact with the outside world in a trustless manner.
+## The Internet Computer: Your Decentralized Playground
 
-<!-- ## Main Offerings
+The **Internet Computer** is like a **galactic cloud server** built for the public.  Imagine a network where you can create any system or service,  using fancy "canister software" (think smart contracts on steroids).  This opens the door for a whole new universe of **Web3 apps, social networks, and even streaming services**, all built on a secure and decentralized network. Pretty cool, right?
 
-Grow the Meme Coin ecosystem on ICP.  -->
+## Let's Talk Tokens, Baby! (Tokenomics Explained)
 
-## Tokenomics
-
-| Token Name  | Token Symbol | Total Supply (Initial) |
-| ----------- | ------------ | ---------------------- |
-| **CervezaCristalFanCoin** | **CCFC**    | 1,000,000,000          |
+**We're all about community ownership**, so **50% of the tokens are reserved for the DAO treasury**.  Here's how the rest breaks down:
 
 | Allocation       | Percentage | Tokens         | Memo                   |
 | ---------------- | ---------- | -------------- | ---------------------- |
@@ -35,35 +32,23 @@ Grow the Meme Coin ecosystem on ICP.  -->
 |                  | -- **80%** | -- 400,000,000 | DEX & CEX Liquidity    |
 |                  | -- **20%** | -- 100,000,000 | Marketing & Community  |
 
-Additionally, there are SNS voting rewards. The reward rate linearly declines from 10% to 5% over one year.
+- **Development Team (10%)** – They get some tokens, but they're working hard for the cause (and fueled by CCFC itself, just like you!). These tokens are locked for a period to ensure commitment.
+- **SNS Swap (40%)** – This is where you get your chance to snag some CCFC! We're aiming to raise some ICP through the swap, which all goes straight to the DAO treasury (more on that later).
 
-### Treasury usage
+**The DAO Treasury (50%)** is like our community war chest. Here's how we plan to use it:
 
-All of the ICP raised in the SNS token sale will belong to the DAO and are not used for any team funding. The team is working entirely out of their own pocket and are incentivised through the CCFC token itself. 80% of the raised funds will be used to provide liquity as this is a crucial element for the success of any meme coin. 20% will be used to incentivise marketing activity within the community. The DAO will be able to vote about those in detail.
+- **DEX & CEX Liquidity (80%)**: A smooth-flowing market is key – we'll use these funds to make sure buying and selling CCFC is a breeze.
+- **Marketing & Community (20%)**: Spreading the word about CCFC and building a vibrant community – that's what this is all about! The DAO will decide how these funds are used.
+  
+**Bonus Level Unlocked!** – If the Force is truly with us and we raise over 20,000 ICP, we'll use the extra funds to build tools that empower the entire **ICP Meme Coin ecosystem**. Talk about building a meme-tastic future together!
 
-**If more than 20k ICP are raised, we shall invest the surplus into building tools that foster the ICP Meme Coin ecosystem.**
-
-### Token utility
-
-CCFC is the only token issued by CCFC DAO. By holding CCFC tokens, users can participate in:
-
-1. Governance decisions of CCFC DAO and receive rewards;
-2. Actively participate in the future development of the CCFC DAO
-
-### Initial token allocation
-
-1. Development team: **10%**, locked for 0-5 months.
-2. SNS Swap: **40%**, locked for 0-3 months, aiming to raise 5,000-100,000 ICP tokens, with the raised ICP belonging to the DAO treasury.
-3. DAO Treasury: **50%**
-   1. Exchange listings: **80%**, used for adding trading pairs on leading decentralized exchanges and getting listed on centralized exchanges.
-   2. Marketing and community incentives: **20%**
-
+**There's even more!** Holding CCFC tokens lets you participate in DAO decisions and shape the future of the coin.
 
 ### Voting power
 
 Full information can be found in the [SNS initial parameters](../sns_init.yaml).
 
-### Funding target
+### SNS parameters
 
 - Min participation: 1 ICP
 - Max participation: 1,000 ICP
@@ -71,21 +56,17 @@ Full information can be found in the [SNS initial parameters](../sns_init.yaml).
 - Max to be raised: 100,000 ICP
 - Min participants: 100
 
-The raised ICP tokens will be used for:
+## Roadmap: From Launch to Meme Coin Domination!
 
-- Providing liquidity for DEX decentralized exchanges;
-- Marketing and community incentives
-- If more than 20k ICP are raised, we shall invest the surplus into building tools that foster the ICP Meme Coin ecosystem.
+1. [ ] early Q2 2024: Blast off with our SNS launch!
+2. [ ] Q2 2024: Get listed on DEXs and major coin trackers – gotta make CCFC easily accessible!
+3. [ ] Q3 2024: Unleash the power of the ICP meme coin ecosystem – the possibilities are endless!
 
-## Roadmap
-
-1. [ ] early Q2 2024: Project launch via SNS.
-2. [ ] Q2 2024: Get liquidity on DEXs and get listed on coin trackers like Coinmarketcap and Coingecko.
-3. [ ] Q3 2024: Foster the ICP meme coin ecosystem.
-
-## Contact us
+## Join the Party!
 
 - Web Dapp: [Website](https://ckpof-haaaa-aaaam-acija-cai.icp0.io/)
 - Telegram: [CCFC DAO Community](https://t.me/+9RXL44rH8m00YmY0)
 - Twitter: [https://twitter.com/cc_fan_coin](https://twitter.com/cc_fan_coin)
 - GitHub: [https://github.com/CCFC-labs/ccfc-sns](https://github.com/CCFC-labs/ccfc-sns)
+
+We hope you're as excited about CCFC as we are!
