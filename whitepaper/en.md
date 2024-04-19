@@ -1,6 +1,4 @@
-# CCFC DAO Whitepaper
-
-## Cerveza Cristal Fan Coin: A Galactic Meme Coin Adventure!
+# Cerveza Cristal Fan Coin: A Galactic Meme Coin Adventure!
 
 Welcome, fellow travelers, to the **Cerveza Cristal Fan Coin (CCFC)** whitepaper! Buckle up for a journey that blends the refreshing taste of a cold Cristal with the hilarious power of memes, all fueled by the revolutionary **Internet Computer (ICP)**!
 
