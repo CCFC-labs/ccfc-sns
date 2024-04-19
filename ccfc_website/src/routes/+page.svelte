@@ -23,7 +23,10 @@
         <IconCcfc />
       </div>
     </Saos>
-    <img class="mt-12" src="/_assets/ccfc-dao.svg" alt="CCFC brand" />
+    <!-- <img class="mt-12" src="/_assets/ccfc-dao.svg" alt="CCFC brand" /> -->
+    <h1 class="h1 text-ccfc mb-6 mt-10 text-center font-extrabold uppercase"
+      ><b>Cerveza Cristal Fan Coin</b></h1
+    ><p class="text-2xl"> May the Meme Coin Be With You!</p>
   </div>
   <div
     class="mt-10 flex max-w-4xl flex-row items-center gap-6 max-sm:flex-col *:max-sm:w-60"
@@ -40,24 +43,22 @@
   </div>
   <div class="mt-6 max-w-screen-sm">
     <p class="text-center text-lg font-normal antialiased">
+      <b>Calling all Star Wars fanatics and crypto enthusiasts!</b> Get ready
+      for the
       <a
         class="text-ccfc font-bold underline underline-offset-4"
         href={PROJECT_URL}
         target="_blank">Cerveza Cristal Fan Coin</a
       >
-      (CCFC) is an absolute meme coin embrazing the still nacent
-      <a
-        class="text-secondary-500 font-bold underline underline-offset-4"
-        href="https://internetcomputer.org/"
-        target="_blank"
-      >
-        Internet Computer
-      </a>
-      ecosystem. The meme coin is governed by a Decentralised Autonomous Organisaton
-      (DAO), also known as Service Nervous System (SNS) on ICP. The concept of this
-      DAO is
-      <i>community first</i>, that's why the majority of the tokens are in the
-      hands of the community.
+      (CCFC), the ultimate meme coin that celebrates the epicness of that recently
+      going viral Cerveza Cristal ad in the Star Wars movie (you know the one, the
+      thirst-quenchingly awesome one).<br /><br />
+      <b>This ain't your average crypto</b>. CCFC is built on the cutting-edge
+      Internet Computer (ICP), and guess what? It's governed by a
+      <b>Decentralized Autonomous Organization (DAO)</b>, also known as a fancy
+      way of saying <b>the community is in charge</b>! Yep, most of the tokens
+      are in YOUR hands. <br /><br />
+      So, buckle up and join the CCFC crew for a galactic meme coin adventure!
     </p>
   </div>
 
@@ -120,9 +121,12 @@
     class="mt-12 flex w-full max-w-screen-sm flex-col flex-nowrap content-center items-center text-lg sm:mt-24"
   >
     <h2 id="mission" class="h2 mb-10 font-extrabold uppercase">Our mission</h2>
-    Not only are we beer lovers but also huge fans of Star Wars. So facing what Cerveza
-    Cristal managed - merging our two passions - we saw that it deserves a bigger
-    place in the meme world.
+    We're not just about frosty Cristals, we're full-blown Star Wars fanatics too!
+    So when we saw that epic Cerveza Cristal ad grace the silver screen, well, let's
+    just say our minds were BLOWN. This wasn't just an ad, it was a meme waiting
+    to happen, and we knew it deserved a place in the intergalactic meme hall of
+    fame!
+
     <Saos
       once={true}
       animation={'slide-top 0.6s cubic-bezier(.25,.46,.45,.94) both'}
@@ -130,14 +134,14 @@
       <VideoEmbed />
     </Saos>
     <p>
-      Learn more about the origins of this meme on
+      Want to dive deeper into the legend of this epic ad? Check out
       <a
         class="text-secondary-500 font-bold underline underline-offset-4"
         href="https://en.wikipedia.org/wiki/The_Force_is_with_Cristal_Beer"
         target="_blank"
       >
         its wiki page
-      </a>.
+      </a> (it's practically required viewing for any true meme connoisseur).
     </p>
   </div>
 
@@ -226,11 +230,17 @@
     >
       <div class="mt-4 max-w-screen-sm text-lg font-normal antialiased">
         <p
-          >We are giving a majority share of the tokens to the community as this
-          project shall be a community driven project. We want to ensure that
-          enough liquidity is provided to exchanges and the project can further
-          grow organically. We are not asking for any funds from the Neuron Fund
-          as we believe this is not suitable for a meme coin project.
+          ><b>Hold onto your spacesuits, community first is our motto!</b> We're
+          handing over most of the CCFC tokens to YOU, the awesome fans. Why?
+          Because this project is all about <b>community power</b>.<br /><br />
+          We want CCFC to organically <b>blast off to the moon</b>, and that
+          means making sure there's enough fuel in the tank (liquidity) for
+          smooth trading on exchanges. That's why we're focusing on providing
+          plenty of liquidity – gotta make buying and selling CCFC a breeze!<br
+          /><br />
+          <b>Forget the fancy Neuron Fund</b>, this is a meme coin after all!
+          The team is here for the love of the game (and a few CCFC tokens
+          themselves).
         </p>
       </div>
     </Saos>
@@ -244,29 +254,29 @@
         </h3>
         <div class="mt-4 max-w-screen-sm text-lg font-normal antialiased">
           <p>
-            All of the ICP raised in the SNS token sale will belong to the DAO
-            and are not used for any team funding. The team is working entirely
-            out of their own pocket and are incentivised through the <span
-              class="text-ccfc font-bold">CCFC</span
+            Here's the breakdown on how we'll use the funds raised through the
+            SNS sale: <br /><br />
+            <b>80% Liquidity Launchpad:</b> We're all about a smooth-flowing
+            market, so this chunk will ensure easy buying and selling of CCFC.
+            <br />
+            <b>20% Marketing Mission:</b> Spreading the word and building a
+            vibrant CCFC community – that's what this 20% is for! The DAO will
+            decide exactly how to use these funds to fuel the hype. <br /><br />
+            <b>Bonus Level Unlocked!</b> If the Force is truly with us and we
+            raise over 20,000 ICP, we'll use the extra funds to build tools that
+            empower the entire <b>ICP Meme Coin ecosystem</b>. Talk about
+            building a meme-tastic future together! <br /><br /><b
+              >Want the nitty-gritty details on the SNS launch?</b
             >
-            token itself. <span class="text-ccfc font-bold">80%</span>
-            of the raised funds will be used to provide liquity as this is a crucial
-            element for the success of any meme coin.
-            <span class="text-ccfc font-bold">20%</span> will be used to incentivise
-            marketing activity within the community. The DAO will be able to vote
-            about those in detail.
-          </p><br /><p class="font-bold">
-            If more than 20k ICP are raised, we shall invest the surplus into
-            building tools that foster the ICP Meme Coin ecosystem.
-          </p><br />
-          <p
-            >Find full details about the sns launch in the <a
+            Check out the
+            <a
               class="text-secondary-500 font-bold underline underline-offset-4"
               href="https://github.com/CCFC-labs/ccfc-sns/blob/main/sns_init.yaml"
               target="_blank">SNS init file</a
-            >.</p
-          >
-        </div>
+            >
+            (it's basically the blueprint for our mission).
+          </p></div
+        >
       </div>
     </Saos>
   </div>
