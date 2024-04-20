@@ -50,9 +50,9 @@
         href={PROJECT_URL}
         target="_blank">Cerveza Cristal Fan Coin</a
       >
-      (CCFC), the ultimate meme coin that celebrates the epicness of that recently
-      going viral Cerveza Cristal ad in the Star Wars movie (you know the one, the
-      thirst-quenchingly awesome one).<br /><br />
+      (CCFC), the ultimate meme coin that celebrates the epicness of that viral Cerveza
+      Cristal ad sneaked into Star Wars Episode IV (you know the one, the thirst-quenchingly
+      awesome one).<br /><br />
       <b>This ain't your average crypto</b>. CCFC is built on the cutting-edge
       Internet Computer (ICP), and guess what? It's governed by a
       <b>Decentralized Autonomous Organization (DAO)</b>, also known as a fancy
