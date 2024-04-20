@@ -38,7 +38,7 @@
       href="https://nns.ic0.app/launchpad/"
       target="_blank"
     >
-      <span class="text-left">SNS token sale will start soon!</span>
+      <span class="text-left">Token will launch soon! 🚀</span>
     </a>
   </div>
   <div class="mt-6 max-w-screen-sm">
