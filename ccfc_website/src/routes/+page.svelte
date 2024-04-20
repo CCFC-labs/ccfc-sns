@@ -256,8 +256,8 @@
           <p>
             Here's the breakdown on how we'll use the funds raised through the
             SNS sale: <br /><br />
-            <b>80% Liquidity Launchpad:</b> We're all about a smooth-flowing
-            market, so this chunk will ensure easy buying and selling of CCFC.
+            <b>80% Liquidity Pools:</b> We're all about a smooth-flowing market,
+            so this chunk will ensure easy buying and selling of CCFC.
             <br />
             <b>20% Marketing Mission:</b> Spreading the word and building a
             vibrant CCFC community – that's what this 20% is for! The DAO will
